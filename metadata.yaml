@@ -1,0 +1,27 @@
+_repo: The-inner-life-of-Abraham-Lincoln-b-Six-months-at-the-White-House_73522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, Francis Bicknell
+    gutenberg_agent_id: '57105'
+    url: http://www.gutenberg.org/2009/agents/57105
+description: ''
+gutenberg_issued: '2024-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73522'
+language: en
+pgterms:marc904: https://archive.org/details/innerlifeofabrah00carp/page/n5/mode/2up
+pgterms:marc905: 20221030110922carpenter
+pgterms:marc906: '1867'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bHurd and Houghton, $c1867, pubdate 1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The inner life of Abraham Lincoln : $b Six months at the White House'
+url: http://www.gutenberg.org/ebooks/73522
